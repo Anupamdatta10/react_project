@@ -2,3 +2,18 @@
 {
     color: aqua;
 }
+.responsive-iframe
+{   
+    position: absolute;
+    top: 7%;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.frameclass
+{ position: absolute;
+    z-index: 99;
+}
